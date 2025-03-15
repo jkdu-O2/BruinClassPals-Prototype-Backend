@@ -1,7 +1,7 @@
 // 📂 config/db.js
 const { MongoClient } = require("mongodb");
 
-const uri = "mongodb+srv://jkdu-o2:5q88kUo7VJ30dHY8@cluster0.ov6jm.mongodb.net";
+const uri = "REDACTED API KEY";
 const client = new MongoClient(uri);
 
 const connectDB = async () => {
