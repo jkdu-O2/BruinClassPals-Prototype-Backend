@@ -12,4 +12,3 @@ The prototype backend is designed to handle user registration, authentication, a
 - **Database Integration:** MongoDB is used to store user data, including email, password, username, major, bio, and contact info.
 - **RESTful API:** Provides endpoints for user registration and other user-related operations.
 
-##
